@@ -93,7 +93,7 @@ const App: React.FC = () => {
     setKnotenCountFromSim(-1); // Mark as pending for the next attempt
     // The status message for the next attempt will be set when the effect runs again with knotenCountFromSim === -1
     
-  }, [isSearching, knotenCountFromSim, currentSearchAttempt, noise, threshold, currentSeed]); // Added noise, threshold, currentSeed to dependencies for success message accuracy
+  }, [isSearching, knotenCountFromSim, currentSearchAttempt]); // Removed noise, threshold, currentSeed
 
 
   return (
