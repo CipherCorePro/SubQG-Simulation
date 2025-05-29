@@ -1,8 +1,3 @@
-Basierend auf der tatsächlichen Projektstruktur (Vite + React + TypeScript) habe ich eine professionelle `README.md` für dein GitHub-Repository erstellt. Sie ist speziell auf interaktive wissenschaftliche Simulationen ausgelegt und erklärt die Anwendung im Kontext der Subquanten-Resonanz-Theorie:
-
----
-
-```markdown
 # 🔬 SubQG-Simulator – Interaktive Resonanzanalyse
 
 Ein interaktives, webbasiertes Simulationssystem zur Veranschaulichung der **Subquanten-Resonanz-Theorie (SubQG)**. Es erlaubt die Echtzeit-Visualisierung synchroner Energie- und Phasenwellen sowie die Detektion sogenannter **SubQG-Knoten** – hypothesierte Punkte, an denen Realität emergent entstehen kann.
@@ -15,7 +10,8 @@ Diese App demonstriert die Kernaussage der SubQG-Theorie:
 
 > *Realität manifestiert sich an Punkten synchroner und identischer Resonanz.*
 
-Dabei wird eine Zeitreihe simuliert, in der Energie- und Phasenwerte fluktuieren. Knotenpunkte – also Kandidaten für reale Manifestationen – entstehen, wenn bestimmte Bedingungen erfüllt sind (siehe [Knoten-Kriterien](#kriterien-für-einen-subqg-knoten)).
+Dabei wird eine Zeitreihe simuliert, in der Energie- und Phasenwerte fluktuieren. Knotenpunkte – also Kandidaten für reale Manifestationen – entstehen, wenn bestimmte Bedingungen erfüllt sind (siehe [Knoten-Kriterien](https://github.com/user-attachments/assets/7c5026dd-82b0-4578-8530-635f6053c669)).
+![image](https://github.com/user-attachments/assets/7c5026dd-82b0-4578-8530-635f6053c669)
 
 ---
 
@@ -120,7 +116,7 @@ Diese App wurde für die experimentelle Erforschung subquanter Strukturen konzip
 
 Ein begleitendes Paper zur SubQG-Theorie findest du demnächst unter:
 
-📄 **\[[Link zur Veröffentlichung (z. B. arXiv)](https://github.com/CipherCorePro/SubQG-Simulation/blob/main/SubQG-Theorie.md)]**
+📄 **\[[Link zur Subquanten-Resonanz-Theorie)](https://github.com/CipherCorePro/SubQG-Simulation/blob/main/liesmich.md))]**
 
 ---
 
