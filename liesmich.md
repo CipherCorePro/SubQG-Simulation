@@ -116,7 +116,7 @@ Diese App wurde für die experimentelle Erforschung subquanter Strukturen konzip
 
 Ein begleitendes Paper zur SubQG-Theorie findest du demnächst unter:
 
-📄 **\[[Link zur Subquanten-Resonanz-Theorie)](https://github.com/CipherCorePro/SubQG-Simulation/blob/main/liesmich.md))]**
+📄 **\[[Link zur Subquanten-Resonanz-Theorie)](https://github.com/CipherCorePro/SubQG-Simulation/blob/main/SubQG-Theorie.md)]**
 
 ---
 
